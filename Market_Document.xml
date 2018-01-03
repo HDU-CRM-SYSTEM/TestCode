@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="crm">
+	<table_data name="market_document">
+	<row>
+		<field name="id">3</field>
+		<field name="name">xxx</field>
+		<field name="message">xxx</field>
+		<field name="address">xxxXXX</field>
+		<field name="addtime">1512992726</field>
+	</row>
+	<row>
+		<field name="id">4</field>
+		<field name="name">xxx</field>
+		<field name="message">xxx</field>
+		<field name="address">xxx</field>
+		<field name="addtime">1512992796</field>
+	</row>
+	<row>
+		<field name="id">5</field>
+		<field name="name">XXX</field>
+		<field name="message">AAA</field>
+		<field name="address">AAA</field>
+		<field name="addtime">1512993489</field>
+	</row>
+	</table_data>
+</database>
+</mysqldump>

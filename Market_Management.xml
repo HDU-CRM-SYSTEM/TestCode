@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="crm">
+	<table_data name="market_management">
+	<row>
+		<field name="id">1</field>
+		<field name="name">浙江杭州</field>
+		<field name="message">这是一家好公司啊啊啊！</field>
+		<field name="address">2号街道xxx号</field>
+		<field name="addtime">1512827127</field>
+	</row>
+	<row>
+		<field name="id">2</field>
+		<field name="name">浙江诸暨</field>
+		<field name="message">这是一家好公司</field>
+		<field name="address">1号街道2号</field>
+		<field name="addtime">1512827130</field>
+	</row>
+	<row>
+		<field name="id">6</field>
+		<field name="name">杭州</field>
+		<field name="message">很棒啊！！！</field>
+		<field name="address">杭州电子科技大学</field>
+		<field name="addtime">1512960531</field>
+	</row>
+	</table_data>
+</database>
+</mysqldump>

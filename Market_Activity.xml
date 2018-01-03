@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="crm">
+	<table_data name="market_activity">
+	<row>
+		<field name="id">1</field>
+		<field name="name">浙江市场活动</field>
+		<field name="message">这次活动很棒！</field>
+		<field name="address">浙江省杭州市下沙高教园区</field>
+		<field name="addtime">1512830104</field>
+	</row>
+	<row>
+		<field name="id">2</field>
+		<field name="name">浙江市场活动</field>
+		<field name="message">描述暂无</field>
+		<field name="address">浙江省杭州市下沙高教园区</field>
+		<field name="addtime">1512830200</field>
+	</row>
+	<row>
+		<field name="id">3</field>
+		<field name="name">浙江市场活动</field>
+		<field name="message">欢迎参加！</field>
+		<field name="address">浙江省杭州市下沙高教园区</field>
+		<field name="addtime">1512830304</field>
+	</row>
+	<row>
+		<field name="id">5</field>
+		<field name="name">XXX</field>
+		<field name="message">XXXXXXX</field>
+		<field name="address">XXX</field>
+		<field name="addtime">1512992086</field>
+	</row>
+	</table_data>
+</database>
+</mysqldump>
